@@ -1,0 +1,16 @@
+body{
+    background-color: #57d1c1;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items:center;
+}
+.btn-1{
+    width: 25%;
+    height: 10%;
+    background-color: #e7dc41;
+    font-size: larger;
+   margin-top: 10%;
+}
