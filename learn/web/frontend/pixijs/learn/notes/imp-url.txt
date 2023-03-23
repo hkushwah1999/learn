@@ -1,0 +1,32 @@
+
+
+
+----------These urls are  for learning and understanding pixijs-----------
+
+video tutorial = https://webdesign.tutsplus.com/courses/up-and-running-with-pixijs/lessons/the-why-and-how-of-pixijs
+
+udemy = https://www.udemy.com/courses/search/?src=ukw&q=pixijs+
+
+Free pixi tutorial = https://www.codeandweb.com/tutorials/pixijs
+
+github readme pixi tutorial = https://github.com/kittykatattack/learningPixi
+
+pixi typescript tutorial = https://www.pixijselementals.com/#introduction
+
+
+
+
+
+----------These urls are  learning with real projects pixijs-----------
+
+https://github.com/pixijs/open-games
+
+https://github.com/EvanBacon/snake
+
+https://github.com/halftheopposite/TOSIOS
+
+
+https://github.com/gara501/pixi-game
+
+
+

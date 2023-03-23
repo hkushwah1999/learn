@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>kitty</title>
+  </head>
+  <body>
+    <script src="pixi.js"></script>
+    <script type="text/javascript">
+      // !!
+      //   not working code
+      //   let type = "WebGL";
+      //   if (!PIXI.utils.isWebGLSupported()) {
+      //     type = "canvas";
+      //   }
+
+      //   PIXI.utils.sayHello(type);
+      // !!
+
+      /*
+      //Create a Pixi Application
+      // This is the most basic code 
+      const app = new PIXI.Application({ width: 500, height: 600 });
+      */
+
+      // more properties on application object
+      //In Application object has only one single object argument
+      // called options
+
+      const app = new PIXI.Application({
+        width: 580, // default: 800
+        height: 700, // default: 600
+        antialias: true, // default: false
+        transparent: false, // default: false
+        resolution: 1, // default: 1
+      });
+
+      //Add the canvas that Pixi automatically created for you to the HTML document
+      document.body.appendChild(app.view);
+    </script>
+  </body>
+</html>

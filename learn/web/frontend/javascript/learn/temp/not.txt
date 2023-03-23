@@ -1,1 +1,0 @@
-this cmd is opened by gedit

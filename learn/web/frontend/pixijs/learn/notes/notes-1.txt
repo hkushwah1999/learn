@@ -1,0 +1,2 @@
+what pixi is ?
+Pixi is a HTML5 creation engine and 2d graphics rendering fraamework for the web and fastest, reliable. It was createdd to normalize 2D canvas and WEbGL api's into a single scene graph api, similar to flash api
